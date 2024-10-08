@@ -57,3 +57,6 @@ Una placa base, es el componente principal de una computadora y alberga varios c
 * **Conectores de audio**: Para altavoces y micrófonos.
 * **Chip de BIOS/UEFI**: Almacena el firmware que inicia la computadora.
 * **Conectores de red (Ethernet)**: Para la conexión a Internet.
+
+  ![Componentes](/images/elementos-de-la-placa-base.png)
+
