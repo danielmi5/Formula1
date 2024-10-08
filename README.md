@@ -1,4 +1,6 @@
-## Evolución:
+# Placa base 
+
+## Evolución: 
 
 ##### 1960 - El nacimiento de la tarjeta madre
 En 1961, IBM lanzó su primer ordenador personal, el IBM 610, y con él, la primera tarjeta madre. Esta tarjeta madre estaba diseñada para alojar los componentes del ordenador, como la CPU, la RAM y los puertos de entrada y salida. La tarjeta madre original de IBM fue diseñada para ser intercambiable, lo que permitió a los usuarios actualizar sus ordenadores con facilidad.
