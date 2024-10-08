@@ -27,19 +27,19 @@ A lo largo de los años, la tarjeta madre ha evolucionado desde una simple placa
 
 ## Formato de placa base
 
-##### Placa base ATX
+#### Placa base ATX
 Tienen un factor de forma más rectangular y están diseñadas para facilitar la instalación y el mantenimiento. Suelen tener más ranuras de expansión y puertos, lo que permite conectar una variedad de componentes adicionales. También tienen una fuente de alimentación integrada que suministra energía a todos los componentes del sistema.
 
-##### Placa Base BTX
+#### Placa Base BTX
 Desarrollado para reemplazar al ATX y mejorar la eficiencia térmica. La disposición de los componentes en una placa base BTX es diferente a la del ATX. La CPU y la tarjeta gráfica se colocan en la parte frontal de la placa base, lo que permite una mejor refrigeración. Sin embargo, las placas base BTX no se volvieron populares y su adopción es limitada.
 
-##### Placa Base Micro-ATX
+#### Placa Base Micro-ATX
 Son más pequeñas que las ATX, pero mantienen la mayoría de sus características. Son una opción popular para ordenadores de escritorio y ofrecen un equilibrio entre tamaño y capacidad de expansión. Suelen tener menos ranuras de expansión y puertos que las ATX, pero son compatibles con muchos casos diseñados para placas ATX.
 
-##### Placa Base Mini-ITX
+#### Placa Base Mini-ITX
 Son ideales ya que son las más pequeñas de todas, creadas para sistemas compactos y de bajo consumo energético, como HTPCs y ordenadores de factor de forma reducido. Aunque tienen una sola ranura de expansión, generalmente permiten la instalación de componentes básicos como CPU, RAM y almacenamiento.
 
-##### Placa base E-ATX
+#### Placa base E-ATX
 Son versiones más grandes de las placas ATX estándar. Ofrecen un mayor número de ranuras de expansión y puertos, y generalmente se utilizan en sistemas de alto rendimiento, como estaciones de trabajo y servidores. Debido a su tamaño, no son compatibles con todos los casos, por lo que es importante verificar la compatibilidad antes de su compra.
 
 
