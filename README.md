@@ -2,28 +2,28 @@
 
 ## Evolución: 
 
-##### 1960 - El nacimiento de la tarjeta madre
-En 1961, IBM lanzó su primer ordenador personal, el IBM 610, y con él, la primera tarjeta madre. Esta tarjeta madre estaba diseñada para alojar los componentes del ordenador, como la CPU, la RAM y los puertos de entrada y salida. La tarjeta madre original de IBM fue diseñada para ser intercambiable, lo que permitió a los usuarios actualizar sus ordenadores con facilidad.
+##### 1960 - El nacimiento de la placa base
+En 1961, IBM lanzó su primer ordenador personal, el IBM 610, y con él, la primera placa base. Esta placa base estaba diseñada para alojar los componentes del ordenador, como la CPU, la RAM y los puertos de entrada y salida. La placa base original de IBM fue diseñada para ser intercambiable, lo que permitió a los usuarios actualizar sus ordenadores con facilidad.
 
-##### 1970 - La evolución de la tarjeta madre
-En la década de 1970, las tarjetas madre se hicieron más avanzadas y empezaron a integrar más componentes en su diseño. La tarjeta madre Altair 8800, lanzada en 1975, fue una de las primeras en incorporar puertos de entrada y salida, así como una CPU y RAM integradas.
+##### 1970 - La evolución de la placa base
+En la década de 1970, las placas base se hicieron más avanzadas y empezaron a integrar más componentes en su diseño. La placa base Altair 8800, lanzada en 1975, fue una de las primeras en incorporar puertos de entrada y salida, así como una CPU y RAM integradas.
 
 ##### 1980 - La era de la compatibilidad
-En la década de 1980, las tarjetas madre se hicieron más compatibles con diferentes tipos de componentes, lo que permitió a los usuarios construir sus propios ordenadores personalizados. La tarjeta madre ATX, lanzada en 1984, fue una de las primeras en utilizar un diseño estándar que se convirtió en el estándar de facto para las tarjetas madre de hoy en día.
+En la década de 1980, las placas base se hicieron más compatibles con diferentes tipos de componentes, lo que permitió a los usuarios construir sus propios ordenadores personalizados. La placa base ATX, lanzada en 1984, fue una de las primeras en utilizar un diseño estándar que se convirtió en el estándar de facto para las placas base de hoy en día.
 
 ##### 1990 - El aumento de la capacidad y la velocidad
-En la década de 1990, las tarjetas madre se hicieron más rápidas y capaces, gracias a la incorporación de la tecnología Pentium de Intel. La tarjeta madre Intel 440FX, lanzada en 1996, fue una de las primeras en utilizar el bus AGP para gráficos de alta velocidad y el bus PCI para otros dispositivos.
+En la década de 1990, las placas base se hicieron más rápidas y capaces, gracias a la incorporación de la tecnología Pentium de Intel. La placa base Intel 440FX, lanzada en 1996, fue una de las primeras en utilizar el bus AGP para gráficos de alta velocidad y el bus PCI para otros dispositivos.
 
 ##### 2000 - La era de la conectividad
-En la década de 2000, las tarjetas madre se hicieron más conectadas, gracias a la incorporación de la tecnología de red y Wi-Fi. La tarjeta madre ASUS P5P800, lanzada en 2004, fue una de las primeras en incorporar la tecnología Wi-Fi y Ethernet Gigabit.
+En la década de 2000, las placa base se hicieron más conectadas, gracias a la incorporación de la tecnología de red y Wi-Fi. La placa base ASUS P5P800, lanzada en 2004, fue una de las primeras en incorporar la tecnología Wi-Fi y Ethernet Gigabit.
 
 ##### 2010 - La era de la eficiencia energética
-En la década de 2010, las tarjetas madre se hicieron más eficientes en cuanto al consumo de energía, gracias a la incorporación de la tecnología Intel Core. La tarjeta madre ASUS P8Z77-V Deluxe, lanzada en 2012, fue una de las primeras en utilizar la tecnología Intel Ivy Bridge y la tecnología de ahorro de energía ASUS DIGI+ VRM.
+En la década de 2010, placas base se hicieron más eficientes en cuanto al consumo de energía, gracias a la incorporación de la tecnología Intel Core. La placa base ASUS P8Z77-V Deluxe, lanzada en 2012, fue una de las primeras en utilizar la tecnología Intel Ivy Bridge y la tecnología de ahorro de energía ASUS DIGI+ VRM.
 
 ##### 2020 - La era de la personalización
-En la actualidad, las tarjetas madre se han vuelto más personalizables, gracias a la incorporación de la tecnología RGB y la capacidad de overclocking. La tarjeta madre ASUS ROG Maximus XII, lanzada en 2020, es una de las primeras en incorporar la tecnología Aura Sync RGB y la capacidad de overclocking AI para un rendimiento aún mejor.
+En la actualidad, las placas base se han vuelto más personalizables, gracias a la incorporación de la tecnología RGB y la capacidad de overclocking. La placa base ASUS ROG Maximus XII, lanzada en 2020, es una de las primeras en incorporar la tecnología Aura Sync RGB y la capacidad de overclocking AI para un rendimiento aún mejor.
 
-A lo largo de los años, la tarjeta madre ha evolucionado desde una simple placa de circuito impreso hasta un componente complejo y altamente personalizable. La línea del tiempo de la tarjeta madre muestra claramente cómo la tecnología ha evolucionado para satisfacer las necesidades de los usuarios, desde la eficiencia energética hasta la personalización. Hoy en día, las tarjetas madre son más rápidas, más capaces y más personalizables que nunca, y
+A lo largo de los años, la placa base ha evolucionado desde una simple placa de circuito impreso hasta un componente complejo y altamente personalizable. La línea del tiempo de la placa base muestra claramente cómo la tecnología ha evolucionado para satisfacer las necesidades de los usuarios, desde la eficiencia energética hasta la personalización. Hoy en día, las placas base son más rápidas, más capaces y más personalizables que nunca, y
 
 ## Formato de placa base
 
@@ -47,13 +47,13 @@ Son versiones más grandes de las placas ATX estándar. Ofrecen un mayor número
 
 Una placa base, es el componente principal de una computadora y alberga varios componentes esenciales. Los más importantes son:
 
-* Socket del procesador: Donde se instala la CPU.
-* Chipset: Controla la comunicación entre el procesador, la memoria RAM y otros dispositivos.
-* Ranuras de memoria (DIMM): Para instalar la memoria RAM.
-* Ranuras de expansión (PCIe, PCI): Para tarjetas gráficas, de sonido, o de red.
-* Conectores SATA: Para discos duros y unidades SSD.
-* Conectores de alimentación: Para suministrar energía a la placa.
-* Puertos USB: Para conectar dispositivos externos.
-* Conectores de audio: Para altavoces y micrófonos.
-* Chip de BIOS/UEFI: Almacena el firmware que inicia la computadora.
-* Conectores de red (Ethernet): Para la conexión a Internet.
+* **Socket del procesador**: Donde se instala la CPU.
+* **Chipset**: Controla la comunicación entre el procesador, la memoria RAM y otros dispositivos.
+* **Ranuras de memoria (DIMM)**: Para instalar la memoria RAM.
+* **Ranuras de expansión (PCIe, PCI)**: Para tarjetas gráficas, de sonido, o de red.
+* **Conectores SATA**: Para discos duros y unidades SSD.
+* **Conectores de alimentación**: Para suministrar energía a la placa.
+* **Puertos USB**: Para conectar dispositivos externos.
+* **Conectores de audio**: Para altavoces y micrófonos.
+* **Chip de BIOS/UEFI**: Almacena el firmware que inicia la computadora.
+* **Conectores de red (Ethernet)**: Para la conexión a Internet.
