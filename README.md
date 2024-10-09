@@ -33,7 +33,7 @@ Tienen un factor de forma más rectangular y están diseñadas para facilitar la
 #### Placa Base BTX
 Desarrollado para reemplazar al ATX y mejorar la eficiencia térmica. La disposición de los componentes en una placa base BTX es diferente a la del ATX. La CPU y la tarjeta gráfica se colocan en la parte frontal de la placa base, lo que permite una mejor refrigeración. Sin embargo, las placas base BTX no se volvieron populares y su adopción es limitada.
 
- ![Componentes](/images/images(1).jpg)
+ ![BTX](/images/images(1).jpeg)
 
 #### Placa Base Micro-ATX
 Son más pequeñas que las ATX, pero mantienen la mayoría de sus características. Son una opción popular para ordenadores de escritorio y ofrecen un equilibrio entre tamaño y capacidad de expansión. Suelen tener menos ranuras de expansión y puertos que las ATX, pero son compatibles con muchos casos diseñados para placas ATX.
@@ -44,7 +44,7 @@ Son ideales ya que son las más pequeñas de todas, creadas para sistemas compac
 #### Placa base E-ATX
 Son versiones más grandes de las placas ATX estándar. Ofrecen un mayor número de ranuras de expansión y puertos, y generalmente se utilizan en sistemas de alto rendimiento, como estaciones de trabajo y servidores. Debido a su tamaño, no son compatibles con todos los casos, por lo que es importante verificar la compatibilidad antes de su compra.
 
-  ![Componentes](/images/placas-base-tamaño.jpg)
+  ![PLacas base](/images/placas-base-tamaño.jpg)
 
 
 ## Componentes
