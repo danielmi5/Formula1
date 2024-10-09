@@ -42,6 +42,8 @@ Son ideales ya que son las más pequeñas de todas, creadas para sistemas compac
 #### Placa base E-ATX
 Son versiones más grandes de las placas ATX estándar. Ofrecen un mayor número de ranuras de expansión y puertos, y generalmente se utilizan en sistemas de alto rendimiento, como estaciones de trabajo y servidores. Debido a su tamaño, no son compatibles con todos los casos, por lo que es importante verificar la compatibilidad antes de su compra.
 
+  ![Componentes](/images/placas-base-tamaño.jpg)
+
 
 ## Componentes
 
@@ -59,4 +61,6 @@ Una placa base, es el componente principal de una computadora y alberga varios c
 * **Conectores de red (Ethernet)**: Para la conexión a Internet.
 
   ![Componentes](/images/elementos-de-la-placa-base.png)
+
+  
 
